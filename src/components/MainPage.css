@@ -1,0 +1,55 @@
+/* .FondDecran {
+    position: absolute;
+    top: 0;
+    left: 5px;
+    width: 100%;
+    height: 800px;
+    object-fit: cover;
+    z-index: 0;
+
+  }
+
+.background-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  
+  filter: blur(8px);
+  object-fit: cover;
+  
+} */
+
+.IconNav {
+  color: #000;
+}
+
+.phrase {
+    font-family: 'Dancing Script', cursive;
+}
+
+.IconHeart {
+  width: 80px;
+  height: 50px;
+}
+
+.Title{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 70px;
+  font-size: xx-large;
+}
+
+
+.SignCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  width: 500px;
+  padding: 20px;
+  margin: 50px auto;
+  text-align: center;
+  z-index: 0;
+  background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);
+}

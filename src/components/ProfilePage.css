@@ -1,0 +1,38 @@
+.ProfileCard {
+  background: radial-gradient(circle at 18.7% 37.8%, rgb(250, 250, 250) 0%, rgb(225, 234, 238) 90%);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+}
+ 
+.ProfileContainer {
+  width: 100%;
+  padding: 20px 10px;
+}
+
+.ProfileInfoLabel {
+  font-weight: 500;
+  font-size: 1.1rem;
+}
+
+.ProfileInfoValue {
+
+}
+
+.ProfileQuote {
+  font-style: italic;
+  font-size: 1.6rem;
+  font-weight: 500;
+  margin-top: 10px;
+  margin: 2px 0;
+  padding: 2px;
+}
+
+.ProfileQuoteActivities {
+  color: #8884d8;
+}
+
+.ProfileQuoteCalories {
+  color: #ff8c00;
+}

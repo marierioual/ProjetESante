@@ -1,0 +1,12 @@
+.SignUpPhrase {
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-align: center;
+    color: #000000;
+}
+
+.form-group > label {
+    align-self: start;
+    display: flex;
+}
